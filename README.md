@@ -4,11 +4,13 @@ Questo repository contiene il **CCNL Commercio TDS (2019 + rinnovo 2024)** in fo
 
 Cos'è [NotebookLM](https://notebooklm.google/)? È un'applicazione gratuita di Google che consente di creare un assistente IA in cui si possono caricare documenti di vario tipo e che può essere usato per riassumere, consultare e studiare le fonti fornite.
 
+👉 **Demo: prova il NotebookLM sul CCNL Commercio: [Demo #1](https://notebooklm.google.com/notebook/c7e26c48-43fc-459f-9ca9-2c21eb7d2973), [Demo #2](https://notebooklm.google.com/notebook/99fd9c23-9759-47d1-9994-27922aeb8933).** (Se non dovessero dare risposte è perché ogni demo consente fino a 50 domande al giorno.)
+
 Il formato dei documenti preferito dalle IA è il [markdown](https://it.wikipedia.org/wiki/Markdown), cioè un file in formato testo arricchito da informazioni di formttazione. Io ho trasformato i file PDF del CCNL in file markdown in modo da essere meglio compresi dal NotebookLM.
 
 Indice dei file qui presenti:
-- **Testo unico del CCNL Commercio TDS Confcommercio 2019**, inclusi: *allegati, allegati apprendistato, tabelle restibutive, protocolli aggiuntivi, appendice*.
-- **Accordo di Rinnovo 2024**, inclusi: *protocollo nazionale sul lavoro agile, accordo integrativo del 22.3.2024*.
+- 📖 **Testo unico del CCNL Commercio TDS Confcommercio 2019**, inclusi: *allegati, allegati apprendistato, tabelle restibutive, protocolli aggiuntivi, appendice*.
+- 📖 **Accordo di Rinnovo 2024**, inclusi: *protocollo nazionale sul lavoro agile, accordo integrativo del 22.3.2024*.
 
 Di seguito le istruzioni per creare un "assistente sindacale" in NotebookLM al quale potrai porre domande sul CCNL.
 
@@ -21,7 +23,7 @@ Di seguito le istruzioni per creare un "assistente sindacale" in NotebookLM al q
 1. Devi caricare le fonti: inserisci tutti i file che hai appena scaricato da questo repository (per fare prima puoi trascinarli tutti in un colpo solo).
 1. Al termine del caricamento, il tuo "assistente sindacale" è pronto e puoi iniziare a consultarlo sul CCNL.
 
-*Nota su NotebookLM: come tutti gli applicativi di IA potrebbe fornire risposte imprecise ed è bene sempre verificarle con le fonti. Il punto di forza di un'applicazione RAG come NotebookLM è che, se non trova una risposta, non tira a indovinare e si limita a dire che non ha trovato una risposta adeguata. Comunque, per ogni risposta che ottieni, puoi sempre verificarne la coerenza con le fonti citate nella risposta stessa.*
+ℹ️ *Nota su NotebookLM: come tutti gli applicativi di IA potrebbe fornire risposte imprecise ed è bene sempre verificarle con le fonti. Il punto di forza di un'applicazione RAG come NotebookLM è che, se non trova una risposta, non tira a indovinare e si limita a dire che non ha trovato una risposta adeguata. Comunque, per ogni risposta che ottieni, puoi sempre verificarne la coerenza con le fonti citate nella risposta stessa.*
 
 Caratteristiche e limiti della versione gratuita di NotebookLM:
 - puoi fare domande tramite la chat: nota che c’è un limite di **50 domande al giorno**; (se vuoi puoi creare più NotebookLM con i file del CCNL così da avere di fatto più domande a disposizione);
