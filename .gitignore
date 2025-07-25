@@ -1,0 +1,16 @@
+node_modules/
+.cursor/
+.idea/
+.DS_Store
+Thumbs.db
+
+*.app
+*.exe
+*.war
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
