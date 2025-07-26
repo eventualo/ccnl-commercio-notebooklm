@@ -42,7 +42,7 @@ Eventuali errori possono pregiudicare la comprensione da parte della IA e quindi
 
 **Se il NotebookLM, o altra applicazione IA che stai usando, ha dato una risposta imprecisa o sbagliata a una tua domanda, puoi seguire queste indicazioni:**
 1. assicurati di aver scaricato l'**ultima versione dei file del CCNL dal repository**: magari stai usando una versione vecchia e nel frattempo il problema è già stato sistemato; 
-1. per lo stesso motivo non considerare l'inesattezza delle risposte dei NotebookLM di demo: non sempre sono aggiornati con l'ultima verisone dei file;
+1. per lo stesso motivo non considerare l'inesattezza delle risposte dei NotebookLM di demo: non sempre sono aggiornati con l'ultima versione dei file;
 1. **se vuoi segnalare il problema che hai riscontrato puoi usare questo form: https://forms.gle/7BfgGi3wQNXzXpdN9**
 
 Se possibile cercherò di sistemare il file markdown per correggere il problema segnalato. Se hai dimestichezza con git e github e hai già individuato il problema in un file markdown, puoi anche aprirmi una pull request con le tue correzioni.
