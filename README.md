@@ -1,15 +1,15 @@
-# CCNL Commercio TDS Confcommercio per NotebookLM #
+# CCNL Commercio TDS per NotebookLM #
 
-Questo repository contiene il **CCNL Commercio TDS (2019 + rinnovo 2024)** in formato markdown (.md) pronto per essere utilizzato da un NotebookLM di Google o altri programmi di IA, in particolare [RAG](https://it.wikipedia.org/wiki/Retrieval_augmented_generation).
+Questo repository contiene il **CCNL Commercio TDS Confcommercio (2019 + rinnovo 2024)** in formato markdown (.md) pronto per essere utilizzato da un NotebookLM di Google o altre app IA, in particolare di tipo [RAG](https://it.wikipedia.org/wiki/Retrieval_augmented_generation).
 
 Cos'è [NotebookLM](https://notebooklm.google/)? È un'applicazione gratuita di Google che consente di creare un assistente IA in cui si possono caricare documenti di vario tipo e che può essere usato per riassumere, consultare e studiare le fonti fornite.
 
 👉 **Demo: prova il NotebookLM sul CCNL Commercio: [Demo #1](https://notebooklm.google.com/notebook/c7e26c48-43fc-459f-9ca9-2c21eb7d2973), [Demo #2](https://notebooklm.google.com/notebook/99fd9c23-9759-47d1-9994-27922aeb8933).** (Se non dovessero dare risposte è perché ogni demo consente fino a 50 domande al giorno.)
 
-Il formato dei documenti preferito dalle IA è il [markdown](https://it.wikipedia.org/wiki/Markdown), cioè un file in formato testo arricchito da informazioni di formttazione. Io ho trasformato i file PDF del CCNL in file markdown in modo da essere meglio compresi dal NotebookLM.
+Il formato dei documenti preferito dalle IA è il [markdown](https://it.wikipedia.org/wiki/Markdown), cioè un formato di testo semplice arricchito da informazioni di formattazione. Io ho trasformato i file PDF del CCNL in file markdown in modo da essere meglio compresi dal NotebookLM.
 
 Indice dei file qui presenti:
-- 📖 **Testo unico del CCNL Commercio TDS Confcommercio 2019**, inclusi: *allegati, allegati apprendistato, tabelle restibutive, protocolli aggiuntivi, appendice*.
+- 📖 **Testo unico del CCNL Commercio TDS Confcommercio 2019**, inclusi: *allegati, allegati apprendistato, tabelle retributive, protocolli aggiuntivi, appendice*.
 - 📖 **Accordo di Rinnovo 2024**, inclusi: *protocollo nazionale sul lavoro agile, accordo integrativo del 22.3.2024*.
 
 Di seguito le istruzioni per creare un "assistente sindacale" in NotebookLM al quale potrai porre domande sul CCNL.
