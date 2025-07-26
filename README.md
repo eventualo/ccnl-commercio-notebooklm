@@ -15,7 +15,7 @@ Indice dei file qui presenti:
 Di seguito le istruzioni per creare un "assistente sindacale" in NotebookLM al quale potrai porre domande sul CCNL.
 
 
-## Come creare un NotebookLM sul CCNL Commercio
+## 📝 Come creare un NotebookLM sul CCNL Commercio
 
 1. Scarica tutti i file dalla cartella `/md-ccnl-commercio-2019-2024` di questo repository: questo [link diretto](https://download-directory.github.io/?url=https://github.com/eventualo/ccnl-commercio-notebooklm/tree/master/md-ccnl-commercio-2019-2024) ti permette di scaricare uno ZIP con tutti i file: poi apri lo ZIP per avere i file pronti per l'uso.
 1. Devi possedere un account Google: puoi crearlo a partire da https://accounts.google.com/signin.
@@ -35,12 +35,15 @@ Caratteristiche e limiti della versione gratuita di NotebookLM:
 L'uso di NotebookLM è abbastanza intuitivo, ma se hai bisogno qui trovi la [guida ufficiale](https://support.google.com/notebooklm#topic=16164070).
 
 
-## Come segnalare un'imprecisione nei file markdown del CCNL?
+## ☎️ Come segnalare una risposta sbagliata dell'IA e/o un'imprecisione nei file markdown del CCNL?
 
 La conversione dei CCNL in file markdown è una procedura automatica, ma a seconda della complessità delle pagine può non essere precisa al 100%. Per cui ho sistemato le imprecisioni che ho trovato, ma si tratta di molte pagine e sicuramente ci sono ancora errori da correggere. 
 Eventuali errori possono pregiudicare la comprensione da parte della IA e quindi la qualità delle sue risposte.
 
-**Se a una tua domanda il NotebookLM, o altra applicazione IA che stai usando, ti ha dato una risposta imprecisa o sbagliata, per favore segnalamelo con questo form: https://forms.gle/7BfgGi3wQNXzXpdN9**
+**Se il NotebookLM, o altra applicazione IA che stai usando, ha dato una risposta imprecisa o sbagliata a una tua domanda, puoi seguire queste indicazioni:**
+1. assicurati di aver scaricato l'**ultima versione dei file del CCNL dal repository**: magari stai usando una versione vecchia e nel frattempo il problema è già stato sistemato; 
+1. per lo stesso motivo non considerare l'inesattezza delle risposte dei NotebookLM di demo: non sempre sono aggiornati con l'ultima verisone dei file;
+1. se vuoi segnalare il problema che hai riscontrato puoi usare questo form: https://forms.gle/7BfgGi3wQNXzXpdN9
 
-Se possibile cercherò di correggere il problema segnalato nel file markdown. Se hai dimestichezza con git e github e hai già individuato il problema in un file markdown, puoi anche aprirmi una pull request con le tue correzioni.
+Se possibile cercherò di sistemare il file markdown per correggere il problema segnalato. Se hai dimestichezza con git e github e hai già individuato il problema in un file markdown, puoi anche aprirmi una pull request con le tue correzioni.
 Grazie!
