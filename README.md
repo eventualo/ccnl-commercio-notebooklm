@@ -27,7 +27,7 @@ Di seguito le istruzioni per creare un "assistente sindacale" in NotebookLM al q
 
 Caratteristiche e limiti della versione gratuita di NotebookLM:
 - puoi fare domande tramite la chat: nota che c’è un limite di **50 domande al giorno**; (se vuoi puoi creare più NotebookLM con i file del CCNL così da avere di fatto più domande a disposizione);
-- accetta al **massimo 50 fonti**;
+- accetta al massimo 50 fonti;
 - risponde sempre citando gli articoli del CCNL da cui trae le risposte, quindi puoi sempre controllare il testo originale del CCNL;
 - puoi salvare le risposte in “note” così da avere alcune informazioni già pronte senza dover chiedere di nuovo;
 - puoi usare le funzioni speciali come: “mappa mentale”, “riepilogo”, “podcast” (crea un audio con due voci che spiegano un argomento del CCNL a tua scelta. Limite: 3 podcast al giorno).
@@ -43,7 +43,7 @@ Eventuali errori possono pregiudicare la comprensione da parte della IA e quindi
 **Se il NotebookLM, o altra applicazione IA che stai usando, ha dato una risposta imprecisa o sbagliata a una tua domanda, puoi seguire queste indicazioni:**
 1. assicurati di aver scaricato l'**ultima versione dei file del CCNL dal repository**: magari stai usando una versione vecchia e nel frattempo il problema è già stato sistemato; 
 1. per lo stesso motivo non considerare l'inesattezza delle risposte dei NotebookLM di demo: non sempre sono aggiornati con l'ultima verisone dei file;
-1. se vuoi segnalare il problema che hai riscontrato puoi usare questo form: https://forms.gle/7BfgGi3wQNXzXpdN9
+1. **se vuoi segnalare il problema che hai riscontrato puoi usare questo form: https://forms.gle/7BfgGi3wQNXzXpdN9**
 
 Se possibile cercherò di sistemare il file markdown per correggere il problema segnalato. Se hai dimestichezza con git e github e hai già individuato il problema in un file markdown, puoi anche aprirmi una pull request con le tue correzioni.
 Grazie!
