@@ -12,7 +12,7 @@ Indice dei file qui presenti:
 - 📖 **Testo unico del CCNL Commercio TDS Confcommercio 2019**, inclusi: *allegati, allegati apprendistato, tabelle retributive, protocolli aggiuntivi, appendice*.
 - 📖 **Accordo di Rinnovo 2024**, inclusi: *protocollo nazionale sul lavoro agile, accordo integrativo del 22.3.2024*.
 
-Di seguito le istruzioni per creare un "assistente sindacale" in NotebookLM al quale potrai porre domande sul CCNL.
+Di seguito le istruzioni per creare un "assistente sindacale" in NotebookLM al quale potrai porre domande sul CCNL. L'intento è quello di fornire uno strumento utile a delegati sindacali e lavoratori per consultare e studiare il CCNL: se hai bisogno di risposte certe e di conferme chiedi sempre a un funzionario sindacale.
 
 
 ## 📝 Come creare un NotebookLM sul CCNL Commercio
@@ -27,10 +27,9 @@ Di seguito le istruzioni per creare un "assistente sindacale" in NotebookLM al q
 
 Caratteristiche e limiti della versione gratuita di NotebookLM:
 - puoi fare domande tramite la chat: nota che c’è un limite di **50 domande al giorno**; (se vuoi puoi creare più NotebookLM con i file del CCNL così da avere di fatto più domande a disposizione);
-- accetta al massimo 50 fonti;
 - risponde sempre citando gli articoli del CCNL da cui trae le risposte, quindi puoi sempre controllare il testo originale del CCNL;
 - puoi salvare le risposte in “note” così da avere alcune informazioni già pronte senza dover chiedere di nuovo;
-- puoi usare le funzioni speciali come: “mappa mentale”, “riepilogo”, “podcast” (crea un audio con due voci che spiegano un argomento del CCNL a tua scelta. Limite: 3 podcast al giorno).
+- puoi usare le funzioni speciali come: “mappa mentale”, “riepilogo”, “podcast” (crea un podcast con due voci che spiegano un argomento del CCNL a tua scelta. Limite: 3 podcast al giorno).
 
 L'uso di NotebookLM è abbastanza intuitivo, ma se hai bisogno qui trovi la [guida ufficiale](https://support.google.com/notebooklm#topic=16164070).
 
